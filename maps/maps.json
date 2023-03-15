@@ -1,0 +1,6 @@
+{
+	"name": "hvh.export",
+	"description": "enjoy free helper data",
+	"update_timestamp": 1678908063,
+	"url_format": "https://raw.githubusercontent.com/nezu-cc/hvh.expert/master/maps/%map%.json"
+}
